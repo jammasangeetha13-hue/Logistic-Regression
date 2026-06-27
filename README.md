@@ -1,1 +1,1 @@
-# Logistic-Regression
+# linear models
